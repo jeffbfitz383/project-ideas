@@ -68,3 +68,23 @@
                             }
 
                             export default VideoPlayer;
+
+
+
+Schema
+
+video editor										
+                                        
+        User		project		plays		        players		    games
+        id		    id		    id		            id		        id
+        name		name	    level		        jersey #		
+        password	desc	    game		        name 		
+                                quarter 	        year		
+                                start		        times featured		
+                                stop				
+                                play type				
+                                player jersey #				
+                                quality rating				
+                                assist				
+                                coment(bool)				
+		
