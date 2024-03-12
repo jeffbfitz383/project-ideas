@@ -30,3 +30,10 @@ The app would interate over the string and get a count of each word ie.
 
         https://pypi.org/project/pyecharts/
         https://pycharts.readthedocs.io/en/latest/charts/bar.html
+
+
+
+
+        schema   
+
+        User        1st doc         world list            2nd doc 
